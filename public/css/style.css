@@ -1,0 +1,23 @@
+.task-outer {
+    padding: 15px;
+}
+.btn-addnewtask {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.file-imglnk img{
+    width: 50px;
+}
+.task-title {
+    width: 450px;
+}
+.task-heading {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.task-heading h1 {
+    font-size: 24px;
+    text-decoration: underline;
+}
