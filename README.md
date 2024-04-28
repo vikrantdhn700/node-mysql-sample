@@ -18,5 +18,5 @@ This project is basically a sample project to manage Task(CRUD). Import excel fi
   - Express.js
 
   **NOTE**
-    - Please download SQL file to create tasks table. Create a database in phpmyadmin and import this file.
-    - Download sample excel file to import (https://github.com/vikrantdhn700/node-mysql-sample/raw/main/public/uploads/1714271225885-223924863Book1.xlsx)
+  - Please download SQL file to create tasks table. Create a database in phpmyadmin and import this file.
+  - Download sample excel file to import (https://github.com/vikrantdhn700/node-mysql-sample/raw/main/public/uploads/1714271225885-223924863Book1.xlsx)
